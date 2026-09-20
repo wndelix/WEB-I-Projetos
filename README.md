@@ -10,3 +10,8 @@
 - Tabela de Notas      [[Repo](https://github.com/wndelix/tabela-notas)] [[Page](https://wndelix.github.io/tabela-notas/)]
 - Roteiro de Viagens   [[Repo](https://github.com/wndelix/roteiro-viagens)] [[Page](https://wndelix.github.io/roteiro-viagens/)]
 - Cadastro de Usuário  [[Repo](https://github.com/wndelix/cadastro-usuario)] [[Page](https://wndelix.github.io/cadastro-usuario/)]
+
+
+#### Atividade do Notion
+
+- Inscrição em uma oficina de tecnologia [[Repo](https://github.com/wndelix/oficina-tecnologia)] [[Page](https://wndelix.github.io/oficina-tecnologia/)]
