@@ -2,7 +2,7 @@
 ## Wendel Peterson Canete da Silva
 ---
 
-### Atividades
+### Projetos
 - Apresentação Pessoal [[Repo](https://github.com/wndelix/apresentacao-pessoal)] [[Page](https://wndelix.github.io/apresentacao-pessoal/)]
 - Portfólio de Imagens [[Repo](https://github.com/wndelix/portfolio-imagens)] [[Page](https://wndelix.github.io/portfolio-imagens/)]
 - Página de Receitas   [[Repo](https://github.com/wndelix/pagina-receitas)] [[Page](https://wndelix.github.io/pagina-receitas/)]
